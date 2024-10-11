@@ -1,4 +1,6 @@
 Chess Game
+
+![Screenshot (3)](https://github.com/user-attachments/assets/834f073a-a248-44e0-b20f-f886aa5d2bc3)
 Overview
 This is a simple chess game created using HTML and CSS. The game features a visually appealing design and allows two players to compete against each other in a classic chess match.
 
